@@ -42,7 +42,7 @@
                                 <path>/loginregisterapp</path>
                                 <url>http://3.98.54.141:8090/manager/text</url>
                                         <username>admin</username>
-                                        <password>*******</password>
+                                        <password>adminadmin</password>
                                         <update>true</update>
                                 </configuration>
                         </plugin>
